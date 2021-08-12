@@ -6,6 +6,7 @@ import android.widget.Toast
 
 class MainActivity : AppCompatActivity() {
     private var name:String = "Roby"
+    private var phone:String = "081330"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
